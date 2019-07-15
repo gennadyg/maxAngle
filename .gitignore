@@ -1,0 +1,6 @@
+build
+.gradle
+logs
+.idea
+out
+.iml
